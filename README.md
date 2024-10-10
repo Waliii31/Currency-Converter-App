@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Day 18 Project: Currency Converter App 💱✨
 
-## Getting Started
+## Project Overview
 
-First, run the development server:
+The **Currency Converter** application allows users to convert amounts between different currencies using real-time exchange rates.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Input Amount and Currencies**: Enter the amount and select currencies for conversion.
+- **Display Converted Result**: See the converted amount instantly.
+- **Real-Time Exchange Rates**: Powered by ExchangeRate API for accurate conversions.
+- **Responsive Design**: Works seamlessly across all devices.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Tech Stack
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js**: A React framework for building full-stack web applications.
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **Shadcn UI**: Beautifully designed Tailwind CSS components.
+- **ExchangeRateAPI**: Reliable Currency Exchange API.
+- **Vercel**: For deploying the Next.js web application.
 
-## Learn More
+## Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+Check out the live demo of the Currency Converter App on Vercel:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+[Live Demo](https://currency-converter-app.vercel.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Screenshot
 
-## Deploy on Vercel
+# Day 18 Project: Currency Converter App 💱✨
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project Overview
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The **Currency Converter** application allows users to convert amounts between different currencies using real-time exchange rates.
+
+## Features
+
+- **Input Amount and Currencies**: Enter the amount and select currencies for conversion.
+- **Display Converted Result**: See the converted amount instantly.
+- **Real-Time Exchange Rates**: Powered by ExchangeRate API for accurate conversions.
+- **Responsive Design**: Works seamlessly across all devices.
+
+## Tech Stack
+
+- **Next.js**: A React framework for building full-stack web applications.
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **Shadcn UI**: Beautifully designed Tailwind CSS components.
+- **ExchangeRateAPI**: Reliable Currency Exchange API.
+- **Vercel**: For deploying the Next.js web application.
+
+## Live Demo
+
+Check out the live demo of the Currency Converter App on Vercel:
+
+[Live Demo](https://vercel.live/link/currency-converter-app-pied.vercel.app/?via=team-dashboard-project-entity&p=1)
+
+## Screenshot
+
+![Currency-Converter](https://github.com/user-attachments/assets/94f7468c-d4e0-4703-9d51-114f4607a608)
